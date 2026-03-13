@@ -6,6 +6,14 @@
   font-size: 1px;
 }
 
+.b-1 {
+  border: 1px solid rgb(177, 177, 177);
+}
+
+.br-1 {
+  border-radius: 1px;
+}
+
 .m-1 {
   margin: 5px;
 }
@@ -72,6 +80,14 @@
 
 .text-2 {
   font-size: 2px;
+}
+
+.b-2 {
+  border: 2px solid rgb(177, 177, 177);
+}
+
+.br-2 {
+  border-radius: 2px;
 }
 
 .m-2 {
@@ -142,6 +158,14 @@
   font-size: 3px;
 }
 
+.b-3 {
+  border: 3px solid rgb(177, 177, 177);
+}
+
+.br-3 {
+  border-radius: 3px;
+}
+
 .m-3 {
   margin: 15px;
 }
@@ -208,6 +232,14 @@
 
 .text-4 {
   font-size: 4px;
+}
+
+.b-4 {
+  border: 4px solid rgb(177, 177, 177);
+}
+
+.br-4 {
+  border-radius: 4px;
 }
 
 .m-4 {
@@ -278,6 +310,14 @@
   font-size: 5px;
 }
 
+.b-5 {
+  border: 5px solid rgb(177, 177, 177);
+}
+
+.br-5 {
+  border-radius: 5px;
+}
+
 .m-5 {
   margin: 25px;
 }
@@ -344,6 +384,14 @@
 
 .text-6 {
   font-size: 6px;
+}
+
+.b-6 {
+  border: 6px solid rgb(177, 177, 177);
+}
+
+.br-6 {
+  border-radius: 6px;
 }
 
 .m-6 {
@@ -414,6 +462,14 @@
   font-size: 7px;
 }
 
+.b-7 {
+  border: 7px solid rgb(177, 177, 177);
+}
+
+.br-7 {
+  border-radius: 7px;
+}
+
 .m-7 {
   margin: 35px;
 }
@@ -480,6 +536,14 @@
 
 .text-8 {
   font-size: 8px;
+}
+
+.b-8 {
+  border: 8px solid rgb(177, 177, 177);
+}
+
+.br-8 {
+  border-radius: 8px;
 }
 
 .m-8 {
@@ -550,6 +614,14 @@
   font-size: 9px;
 }
 
+.b-9 {
+  border: 9px solid rgb(177, 177, 177);
+}
+
+.br-9 {
+  border-radius: 9px;
+}
+
 .m-9 {
   margin: 45px;
 }
@@ -616,6 +688,14 @@
 
 .text-10 {
   font-size: 10px;
+}
+
+.b-10 {
+  border: 10px solid rgb(177, 177, 177);
+}
+
+.br-10 {
+  border-radius: 10px;
 }
 
 .m-10 {
@@ -686,6 +766,14 @@
   font-size: 11px;
 }
 
+.b-11 {
+  border: 11px solid rgb(177, 177, 177);
+}
+
+.br-11 {
+  border-radius: 11px;
+}
+
 .m-11 {
   margin: 55px;
 }
@@ -752,6 +840,14 @@
 
 .text-12 {
   font-size: 12px;
+}
+
+.b-12 {
+  border: 12px solid rgb(177, 177, 177);
+}
+
+.br-12 {
+  border-radius: 12px;
 }
 
 .m-12 {
@@ -822,6 +918,14 @@
   font-size: 13px;
 }
 
+.b-13 {
+  border: 13px solid rgb(177, 177, 177);
+}
+
+.br-13 {
+  border-radius: 13px;
+}
+
 .m-13 {
   margin: 65px;
 }
@@ -888,6 +992,14 @@
 
 .text-14 {
   font-size: 14px;
+}
+
+.b-14 {
+  border: 14px solid rgb(177, 177, 177);
+}
+
+.br-14 {
+  border-radius: 14px;
 }
 
 .m-14 {
@@ -958,6 +1070,14 @@
   font-size: 15px;
 }
 
+.b-15 {
+  border: 15px solid rgb(177, 177, 177);
+}
+
+.br-15 {
+  border-radius: 15px;
+}
+
 .m-15 {
   margin: 75px;
 }
@@ -1024,6 +1144,14 @@
 
 .text-16 {
   font-size: 16px;
+}
+
+.b-16 {
+  border: 16px solid rgb(177, 177, 177);
+}
+
+.br-16 {
+  border-radius: 16px;
 }
 
 .m-16 {
@@ -1094,6 +1222,14 @@
   font-size: 17px;
 }
 
+.b-17 {
+  border: 17px solid rgb(177, 177, 177);
+}
+
+.br-17 {
+  border-radius: 17px;
+}
+
 .m-17 {
   margin: 85px;
 }
@@ -1160,6 +1296,14 @@
 
 .text-18 {
   font-size: 18px;
+}
+
+.b-18 {
+  border: 18px solid rgb(177, 177, 177);
+}
+
+.br-18 {
+  border-radius: 18px;
 }
 
 .m-18 {
@@ -1230,6 +1374,14 @@
   font-size: 19px;
 }
 
+.b-19 {
+  border: 19px solid rgb(177, 177, 177);
+}
+
+.br-19 {
+  border-radius: 19px;
+}
+
 .m-19 {
   margin: 95px;
 }
@@ -1296,6 +1448,14 @@
 
 .text-20 {
   font-size: 20px;
+}
+
+.b-20 {
+  border: 20px solid rgb(177, 177, 177);
+}
+
+.br-20 {
+  border-radius: 20px;
 }
 
 .m-20 {
@@ -1366,6 +1526,14 @@
   font-size: 21px;
 }
 
+.b-21 {
+  border: 21px solid rgb(177, 177, 177);
+}
+
+.br-21 {
+  border-radius: 21px;
+}
+
 .m-21 {
   margin: 105px;
 }
@@ -1432,6 +1600,14 @@
 
 .text-22 {
   font-size: 22px;
+}
+
+.b-22 {
+  border: 22px solid rgb(177, 177, 177);
+}
+
+.br-22 {
+  border-radius: 22px;
 }
 
 .m-22 {
@@ -1502,6 +1678,14 @@
   font-size: 23px;
 }
 
+.b-23 {
+  border: 23px solid rgb(177, 177, 177);
+}
+
+.br-23 {
+  border-radius: 23px;
+}
+
 .m-23 {
   margin: 115px;
 }
@@ -1568,6 +1752,14 @@
 
 .text-24 {
   font-size: 24px;
+}
+
+.b-24 {
+  border: 24px solid rgb(177, 177, 177);
+}
+
+.br-24 {
+  border-radius: 24px;
 }
 
 .m-24 {
@@ -1638,6 +1830,14 @@
   font-size: 25px;
 }
 
+.b-25 {
+  border: 25px solid rgb(177, 177, 177);
+}
+
+.br-25 {
+  border-radius: 25px;
+}
+
 .m-25 {
   margin: 125px;
 }
@@ -1704,6 +1904,14 @@
 
 .text-26 {
   font-size: 26px;
+}
+
+.b-26 {
+  border: 26px solid rgb(177, 177, 177);
+}
+
+.br-26 {
+  border-radius: 26px;
 }
 
 .m-26 {
@@ -1774,6 +1982,14 @@
   font-size: 27px;
 }
 
+.b-27 {
+  border: 27px solid rgb(177, 177, 177);
+}
+
+.br-27 {
+  border-radius: 27px;
+}
+
 .m-27 {
   margin: 135px;
 }
@@ -1840,6 +2056,14 @@
 
 .text-28 {
   font-size: 28px;
+}
+
+.b-28 {
+  border: 28px solid rgb(177, 177, 177);
+}
+
+.br-28 {
+  border-radius: 28px;
 }
 
 .m-28 {
@@ -1910,6 +2134,14 @@
   font-size: 29px;
 }
 
+.b-29 {
+  border: 29px solid rgb(177, 177, 177);
+}
+
+.br-29 {
+  border-radius: 29px;
+}
+
 .m-29 {
   margin: 145px;
 }
@@ -1976,6 +2208,14 @@
 
 .text-30 {
   font-size: 30px;
+}
+
+.b-30 {
+  border: 30px solid rgb(177, 177, 177);
+}
+
+.br-30 {
+  border-radius: 30px;
 }
 
 .m-30 {
@@ -2046,6 +2286,14 @@
   font-size: 31px;
 }
 
+.b-31 {
+  border: 31px solid rgb(177, 177, 177);
+}
+
+.br-31 {
+  border-radius: 31px;
+}
+
 .m-31 {
   margin: 155px;
 }
@@ -2112,6 +2360,14 @@
 
 .text-32 {
   font-size: 32px;
+}
+
+.b-32 {
+  border: 32px solid rgb(177, 177, 177);
+}
+
+.br-32 {
+  border-radius: 32px;
 }
 
 .m-32 {
@@ -2182,6 +2438,14 @@
   font-size: 33px;
 }
 
+.b-33 {
+  border: 33px solid rgb(177, 177, 177);
+}
+
+.br-33 {
+  border-radius: 33px;
+}
+
 .m-33 {
   margin: 165px;
 }
@@ -2248,6 +2512,14 @@
 
 .text-34 {
   font-size: 34px;
+}
+
+.b-34 {
+  border: 34px solid rgb(177, 177, 177);
+}
+
+.br-34 {
+  border-radius: 34px;
 }
 
 .m-34 {
@@ -2318,6 +2590,14 @@
   font-size: 35px;
 }
 
+.b-35 {
+  border: 35px solid rgb(177, 177, 177);
+}
+
+.br-35 {
+  border-radius: 35px;
+}
+
 .m-35 {
   margin: 175px;
 }
@@ -2384,6 +2664,14 @@
 
 .text-36 {
   font-size: 36px;
+}
+
+.b-36 {
+  border: 36px solid rgb(177, 177, 177);
+}
+
+.br-36 {
+  border-radius: 36px;
 }
 
 .m-36 {
@@ -2454,6 +2742,14 @@
   font-size: 37px;
 }
 
+.b-37 {
+  border: 37px solid rgb(177, 177, 177);
+}
+
+.br-37 {
+  border-radius: 37px;
+}
+
 .m-37 {
   margin: 185px;
 }
@@ -2520,6 +2816,14 @@
 
 .text-38 {
   font-size: 38px;
+}
+
+.b-38 {
+  border: 38px solid rgb(177, 177, 177);
+}
+
+.br-38 {
+  border-radius: 38px;
 }
 
 .m-38 {
@@ -2590,6 +2894,14 @@
   font-size: 39px;
 }
 
+.b-39 {
+  border: 39px solid rgb(177, 177, 177);
+}
+
+.br-39 {
+  border-radius: 39px;
+}
+
 .m-39 {
   margin: 195px;
 }
@@ -2656,6 +2968,14 @@
 
 .text-40 {
   font-size: 40px;
+}
+
+.b-40 {
+  border: 40px solid rgb(177, 177, 177);
+}
+
+.br-40 {
+  border-radius: 40px;
 }
 
 .m-40 {
@@ -2726,6 +3046,14 @@
   font-size: 41px;
 }
 
+.b-41 {
+  border: 41px solid rgb(177, 177, 177);
+}
+
+.br-41 {
+  border-radius: 41px;
+}
+
 .m-41 {
   margin: 205px;
 }
@@ -2792,6 +3120,14 @@
 
 .text-42 {
   font-size: 42px;
+}
+
+.b-42 {
+  border: 42px solid rgb(177, 177, 177);
+}
+
+.br-42 {
+  border-radius: 42px;
 }
 
 .m-42 {
@@ -2862,6 +3198,14 @@
   font-size: 43px;
 }
 
+.b-43 {
+  border: 43px solid rgb(177, 177, 177);
+}
+
+.br-43 {
+  border-radius: 43px;
+}
+
 .m-43 {
   margin: 215px;
 }
@@ -2928,6 +3272,14 @@
 
 .text-44 {
   font-size: 44px;
+}
+
+.b-44 {
+  border: 44px solid rgb(177, 177, 177);
+}
+
+.br-44 {
+  border-radius: 44px;
 }
 
 .m-44 {
@@ -2998,6 +3350,14 @@
   font-size: 45px;
 }
 
+.b-45 {
+  border: 45px solid rgb(177, 177, 177);
+}
+
+.br-45 {
+  border-radius: 45px;
+}
+
 .m-45 {
   margin: 225px;
 }
@@ -3064,6 +3424,14 @@
 
 .text-46 {
   font-size: 46px;
+}
+
+.b-46 {
+  border: 46px solid rgb(177, 177, 177);
+}
+
+.br-46 {
+  border-radius: 46px;
 }
 
 .m-46 {
@@ -3134,6 +3502,14 @@
   font-size: 47px;
 }
 
+.b-47 {
+  border: 47px solid rgb(177, 177, 177);
+}
+
+.br-47 {
+  border-radius: 47px;
+}
+
 .m-47 {
   margin: 235px;
 }
@@ -3200,6 +3576,14 @@
 
 .text-48 {
   font-size: 48px;
+}
+
+.b-48 {
+  border: 48px solid rgb(177, 177, 177);
+}
+
+.br-48 {
+  border-radius: 48px;
 }
 
 .m-48 {
@@ -3270,6 +3654,14 @@
   font-size: 49px;
 }
 
+.b-49 {
+  border: 49px solid rgb(177, 177, 177);
+}
+
+.br-49 {
+  border-radius: 49px;
+}
+
 .m-49 {
   margin: 245px;
 }
@@ -3336,6 +3728,14 @@
 
 .text-50 {
   font-size: 50px;
+}
+
+.b-50 {
+  border: 50px solid rgb(177, 177, 177);
+}
+
+.br-50 {
+  border-radius: 50px;
 }
 
 .m-50 {
@@ -3406,6 +3806,14 @@
   font-size: 51px;
 }
 
+.b-51 {
+  border: 51px solid rgb(177, 177, 177);
+}
+
+.br-51 {
+  border-radius: 51px;
+}
+
 .m-51 {
   margin: 255px;
 }
@@ -3472,6 +3880,14 @@
 
 .text-52 {
   font-size: 52px;
+}
+
+.b-52 {
+  border: 52px solid rgb(177, 177, 177);
+}
+
+.br-52 {
+  border-radius: 52px;
 }
 
 .m-52 {
@@ -3542,6 +3958,14 @@
   font-size: 53px;
 }
 
+.b-53 {
+  border: 53px solid rgb(177, 177, 177);
+}
+
+.br-53 {
+  border-radius: 53px;
+}
+
 .m-53 {
   margin: 265px;
 }
@@ -3608,6 +4032,14 @@
 
 .text-54 {
   font-size: 54px;
+}
+
+.b-54 {
+  border: 54px solid rgb(177, 177, 177);
+}
+
+.br-54 {
+  border-radius: 54px;
 }
 
 .m-54 {
@@ -3678,6 +4110,14 @@
   font-size: 55px;
 }
 
+.b-55 {
+  border: 55px solid rgb(177, 177, 177);
+}
+
+.br-55 {
+  border-radius: 55px;
+}
+
 .m-55 {
   margin: 275px;
 }
@@ -3744,6 +4184,14 @@
 
 .text-56 {
   font-size: 56px;
+}
+
+.b-56 {
+  border: 56px solid rgb(177, 177, 177);
+}
+
+.br-56 {
+  border-radius: 56px;
 }
 
 .m-56 {
@@ -3814,6 +4262,14 @@
   font-size: 57px;
 }
 
+.b-57 {
+  border: 57px solid rgb(177, 177, 177);
+}
+
+.br-57 {
+  border-radius: 57px;
+}
+
 .m-57 {
   margin: 285px;
 }
@@ -3880,6 +4336,14 @@
 
 .text-58 {
   font-size: 58px;
+}
+
+.b-58 {
+  border: 58px solid rgb(177, 177, 177);
+}
+
+.br-58 {
+  border-radius: 58px;
 }
 
 .m-58 {
@@ -3950,6 +4414,14 @@
   font-size: 59px;
 }
 
+.b-59 {
+  border: 59px solid rgb(177, 177, 177);
+}
+
+.br-59 {
+  border-radius: 59px;
+}
+
 .m-59 {
   margin: 295px;
 }
@@ -4016,6 +4488,14 @@
 
 .text-60 {
   font-size: 60px;
+}
+
+.b-60 {
+  border: 60px solid rgb(177, 177, 177);
+}
+
+.br-60 {
+  border-radius: 60px;
 }
 
 .m-60 {
@@ -4086,6 +4566,14 @@
   font-size: 61px;
 }
 
+.b-61 {
+  border: 61px solid rgb(177, 177, 177);
+}
+
+.br-61 {
+  border-radius: 61px;
+}
+
 .m-61 {
   margin: 305px;
 }
@@ -4152,6 +4640,14 @@
 
 .text-62 {
   font-size: 62px;
+}
+
+.b-62 {
+  border: 62px solid rgb(177, 177, 177);
+}
+
+.br-62 {
+  border-radius: 62px;
 }
 
 .m-62 {
@@ -4222,6 +4718,14 @@
   font-size: 63px;
 }
 
+.b-63 {
+  border: 63px solid rgb(177, 177, 177);
+}
+
+.br-63 {
+  border-radius: 63px;
+}
+
 .m-63 {
   margin: 315px;
 }
@@ -4288,6 +4792,14 @@
 
 .text-64 {
   font-size: 64px;
+}
+
+.b-64 {
+  border: 64px solid rgb(177, 177, 177);
+}
+
+.br-64 {
+  border-radius: 64px;
 }
 
 .m-64 {
@@ -4358,6 +4870,14 @@
   font-size: 65px;
 }
 
+.b-65 {
+  border: 65px solid rgb(177, 177, 177);
+}
+
+.br-65 {
+  border-radius: 65px;
+}
+
 .m-65 {
   margin: 325px;
 }
@@ -4424,6 +4944,14 @@
 
 .text-66 {
   font-size: 66px;
+}
+
+.b-66 {
+  border: 66px solid rgb(177, 177, 177);
+}
+
+.br-66 {
+  border-radius: 66px;
 }
 
 .m-66 {
@@ -4494,6 +5022,14 @@
   font-size: 67px;
 }
 
+.b-67 {
+  border: 67px solid rgb(177, 177, 177);
+}
+
+.br-67 {
+  border-radius: 67px;
+}
+
 .m-67 {
   margin: 335px;
 }
@@ -4560,6 +5096,14 @@
 
 .text-68 {
   font-size: 68px;
+}
+
+.b-68 {
+  border: 68px solid rgb(177, 177, 177);
+}
+
+.br-68 {
+  border-radius: 68px;
 }
 
 .m-68 {
@@ -4630,6 +5174,14 @@
   font-size: 69px;
 }
 
+.b-69 {
+  border: 69px solid rgb(177, 177, 177);
+}
+
+.br-69 {
+  border-radius: 69px;
+}
+
 .m-69 {
   margin: 345px;
 }
@@ -4696,6 +5248,14 @@
 
 .text-70 {
   font-size: 70px;
+}
+
+.b-70 {
+  border: 70px solid rgb(177, 177, 177);
+}
+
+.br-70 {
+  border-radius: 70px;
 }
 
 .m-70 {
@@ -4766,6 +5326,14 @@
   font-size: 71px;
 }
 
+.b-71 {
+  border: 71px solid rgb(177, 177, 177);
+}
+
+.br-71 {
+  border-radius: 71px;
+}
+
 .m-71 {
   margin: 355px;
 }
@@ -4832,6 +5400,14 @@
 
 .text-72 {
   font-size: 72px;
+}
+
+.b-72 {
+  border: 72px solid rgb(177, 177, 177);
+}
+
+.br-72 {
+  border-radius: 72px;
 }
 
 .m-72 {
@@ -4902,6 +5478,14 @@
   font-size: 73px;
 }
 
+.b-73 {
+  border: 73px solid rgb(177, 177, 177);
+}
+
+.br-73 {
+  border-radius: 73px;
+}
+
 .m-73 {
   margin: 365px;
 }
@@ -4968,6 +5552,14 @@
 
 .text-74 {
   font-size: 74px;
+}
+
+.b-74 {
+  border: 74px solid rgb(177, 177, 177);
+}
+
+.br-74 {
+  border-radius: 74px;
 }
 
 .m-74 {
@@ -5038,6 +5630,14 @@
   font-size: 75px;
 }
 
+.b-75 {
+  border: 75px solid rgb(177, 177, 177);
+}
+
+.br-75 {
+  border-radius: 75px;
+}
+
 .m-75 {
   margin: 375px;
 }
@@ -5104,6 +5704,14 @@
 
 .text-76 {
   font-size: 76px;
+}
+
+.b-76 {
+  border: 76px solid rgb(177, 177, 177);
+}
+
+.br-76 {
+  border-radius: 76px;
 }
 
 .m-76 {
@@ -5174,6 +5782,14 @@
   font-size: 77px;
 }
 
+.b-77 {
+  border: 77px solid rgb(177, 177, 177);
+}
+
+.br-77 {
+  border-radius: 77px;
+}
+
 .m-77 {
   margin: 385px;
 }
@@ -5240,6 +5856,14 @@
 
 .text-78 {
   font-size: 78px;
+}
+
+.b-78 {
+  border: 78px solid rgb(177, 177, 177);
+}
+
+.br-78 {
+  border-radius: 78px;
 }
 
 .m-78 {
@@ -5310,6 +5934,14 @@
   font-size: 79px;
 }
 
+.b-79 {
+  border: 79px solid rgb(177, 177, 177);
+}
+
+.br-79 {
+  border-radius: 79px;
+}
+
 .m-79 {
   margin: 395px;
 }
@@ -5376,6 +6008,14 @@
 
 .text-80 {
   font-size: 80px;
+}
+
+.b-80 {
+  border: 80px solid rgb(177, 177, 177);
+}
+
+.br-80 {
+  border-radius: 80px;
 }
 
 .m-80 {
@@ -5446,6 +6086,14 @@
   font-size: 81px;
 }
 
+.b-81 {
+  border: 81px solid rgb(177, 177, 177);
+}
+
+.br-81 {
+  border-radius: 81px;
+}
+
 .m-81 {
   margin: 405px;
 }
@@ -5512,6 +6160,14 @@
 
 .text-82 {
   font-size: 82px;
+}
+
+.b-82 {
+  border: 82px solid rgb(177, 177, 177);
+}
+
+.br-82 {
+  border-radius: 82px;
 }
 
 .m-82 {
@@ -5582,6 +6238,14 @@
   font-size: 83px;
 }
 
+.b-83 {
+  border: 83px solid rgb(177, 177, 177);
+}
+
+.br-83 {
+  border-radius: 83px;
+}
+
 .m-83 {
   margin: 415px;
 }
@@ -5648,6 +6312,14 @@
 
 .text-84 {
   font-size: 84px;
+}
+
+.b-84 {
+  border: 84px solid rgb(177, 177, 177);
+}
+
+.br-84 {
+  border-radius: 84px;
 }
 
 .m-84 {
@@ -5718,6 +6390,14 @@
   font-size: 85px;
 }
 
+.b-85 {
+  border: 85px solid rgb(177, 177, 177);
+}
+
+.br-85 {
+  border-radius: 85px;
+}
+
 .m-85 {
   margin: 425px;
 }
@@ -5784,6 +6464,14 @@
 
 .text-86 {
   font-size: 86px;
+}
+
+.b-86 {
+  border: 86px solid rgb(177, 177, 177);
+}
+
+.br-86 {
+  border-radius: 86px;
 }
 
 .m-86 {
@@ -5854,6 +6542,14 @@
   font-size: 87px;
 }
 
+.b-87 {
+  border: 87px solid rgb(177, 177, 177);
+}
+
+.br-87 {
+  border-radius: 87px;
+}
+
 .m-87 {
   margin: 435px;
 }
@@ -5920,6 +6616,14 @@
 
 .text-88 {
   font-size: 88px;
+}
+
+.b-88 {
+  border: 88px solid rgb(177, 177, 177);
+}
+
+.br-88 {
+  border-radius: 88px;
 }
 
 .m-88 {
@@ -5990,6 +6694,14 @@
   font-size: 89px;
 }
 
+.b-89 {
+  border: 89px solid rgb(177, 177, 177);
+}
+
+.br-89 {
+  border-radius: 89px;
+}
+
 .m-89 {
   margin: 445px;
 }
@@ -6056,6 +6768,14 @@
 
 .text-90 {
   font-size: 90px;
+}
+
+.b-90 {
+  border: 90px solid rgb(177, 177, 177);
+}
+
+.br-90 {
+  border-radius: 90px;
 }
 
 .m-90 {
@@ -6126,6 +6846,14 @@
   font-size: 91px;
 }
 
+.b-91 {
+  border: 91px solid rgb(177, 177, 177);
+}
+
+.br-91 {
+  border-radius: 91px;
+}
+
 .m-91 {
   margin: 455px;
 }
@@ -6192,6 +6920,14 @@
 
 .text-92 {
   font-size: 92px;
+}
+
+.b-92 {
+  border: 92px solid rgb(177, 177, 177);
+}
+
+.br-92 {
+  border-radius: 92px;
 }
 
 .m-92 {
@@ -6262,6 +6998,14 @@
   font-size: 93px;
 }
 
+.b-93 {
+  border: 93px solid rgb(177, 177, 177);
+}
+
+.br-93 {
+  border-radius: 93px;
+}
+
 .m-93 {
   margin: 465px;
 }
@@ -6328,6 +7072,14 @@
 
 .text-94 {
   font-size: 94px;
+}
+
+.b-94 {
+  border: 94px solid rgb(177, 177, 177);
+}
+
+.br-94 {
+  border-radius: 94px;
 }
 
 .m-94 {
@@ -6398,6 +7150,14 @@
   font-size: 95px;
 }
 
+.b-95 {
+  border: 95px solid rgb(177, 177, 177);
+}
+
+.br-95 {
+  border-radius: 95px;
+}
+
 .m-95 {
   margin: 475px;
 }
@@ -6464,6 +7224,14 @@
 
 .text-96 {
   font-size: 96px;
+}
+
+.b-96 {
+  border: 96px solid rgb(177, 177, 177);
+}
+
+.br-96 {
+  border-radius: 96px;
 }
 
 .m-96 {
@@ -6534,6 +7302,14 @@
   font-size: 97px;
 }
 
+.b-97 {
+  border: 97px solid rgb(177, 177, 177);
+}
+
+.br-97 {
+  border-radius: 97px;
+}
+
 .m-97 {
   margin: 485px;
 }
@@ -6600,6 +7376,14 @@
 
 .text-98 {
   font-size: 98px;
+}
+
+.b-98 {
+  border: 98px solid rgb(177, 177, 177);
+}
+
+.br-98 {
+  border-radius: 98px;
 }
 
 .m-98 {
@@ -6670,6 +7454,14 @@
   font-size: 99px;
 }
 
+.b-99 {
+  border: 99px solid rgb(177, 177, 177);
+}
+
+.br-99 {
+  border-radius: 99px;
+}
+
 .m-99 {
   margin: 495px;
 }
@@ -6736,6 +7528,14 @@
 
 .text-100 {
   font-size: 100px;
+}
+
+.b-100 {
+  border: 100px solid rgb(177, 177, 177);
+}
+
+.br-100 {
+  border-radius: 100px;
 }
 
 .m-100 {
@@ -6886,6 +7686,10 @@
   display: flex;
 }
 
+.bn-none {
+  border: none;
+}
+
 .jc-center {
   justify-content: center;
 }
@@ -6964,4 +7768,20 @@
 
 .bg-mukabut {
   background-color: #00486D;
+}
+
+.text-myxok {
+  color: rgba(211, 222, 255, 0.3333333333);
+}
+
+.bg-myxok {
+  background-color: rgba(211, 222, 255, 0.3333333333);
+}
+
+.text-mynane {
+  color: rgba(170, 170, 170, 0);
+}
+
+.bg-mynane {
+  background-color: rgba(170, 170, 170, 0);
 }/*# sourceMappingURL=stayl.css.map */

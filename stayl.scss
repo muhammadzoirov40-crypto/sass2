@@ -6,6 +6,7 @@ $colors: red, blue, green, black, white, yellow, gray, pink;
 $displays: inline, block, none, grid, flex;
 $juscon:center, end, space-around, space-evenly, space-between;
 $aliitem: center, end;
+$border: none;
 $position: relative,absolute,fixed ,static,sticky;
 // $width: center, end;
 $colorMap:(
@@ -13,6 +14,8 @@ $colorMap:(
     myblue: #133db2,
     mygreen: #17ce32,
     mukabut:#00486D,
+    myxok:#d3deff55,
+    mynane:#aaaaaa00,
 
 );
 
@@ -20,6 +23,14 @@ $colorMap:(
     .text-#{$i} {
         font-size: #{$i}px;
     }
+    
+    .b-#{$i} {
+        border: #{$i}px solid rgb(177, 177, 177);
+    }
+    .br-#{$i} {
+        border-radius: #{$i}px ;
+    }
+    
     
     .m-#{$i} {
         margin: #{$i * 5}px;
@@ -99,6 +110,11 @@ $colorMap:(
 @each $i in $displays {
     .d-#{$i} {
         display: $i;
+    }
+}
+@each $i in $border {
+    .bn-#{$i} {
+        border: $i;
     }
 }
 @each $i in $juscon {
