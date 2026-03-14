@@ -4,12 +4,13 @@
 
 $colors: red, blue, green, black, white, yellow, gray, pink;
 $displays: inline, block, none, grid, flex;
-$juscon:center, end, space-around, space-evenly, space-between;
+$juscon: center, end, space-around, space-evenly, space-between;
 $aliitem: center, end;
+$tili: center, end;
 $border: none;
-$position: relative,absolute,fixed ,static,sticky;
-// $width: center, end;
-$colorMap:(
+$position: relative, absolute, fixed, static, sticky;
+$colorMap: (
+    mywhite:#ffffff,
     myred: #dc1d1d,
     myblue: #133db2,
     mygreen: #17ce32,
@@ -17,21 +18,23 @@ $colorMap:(
     myxok:#d3deff55,
     mynane:#aaaaaa00,
 
+
 );
 
-@for $i from 1 through 100 {
+@for $i from 1 through 225 {
     .text-#{$i} {
         font-size: #{$i}px;
     }
-    
+
     .b-#{$i} {
         border: #{$i}px solid rgb(177, 177, 177);
     }
+
     .br-#{$i} {
-        border-radius: #{$i}px ;
+        border-radius: #{$i}px;
     }
-    
-    
+
+
     .m-#{$i} {
         margin: #{$i * 5}px;
     }
@@ -51,6 +54,7 @@ $colorMap:(
     .ml-#{$i} {
         margin-left: #{$i * 5}px;
     }
+
     .p-#{$i} {
         padding: #{$i * 5}px;
     }
@@ -70,28 +74,16 @@ $colorMap:(
     .pl-#{$i} {
         padding-left: #{$i * 5}px;
     }
-     .w-#{$i} {
+
+    .w-#{$i} {
         width: #{$i *10}px;
     }
+
     .h-#{$i} {
         height: #{$i*10}px;
     }
-    
-    .t-#{$i} {
-        top: #{$i * 5}px;
-    }
 
-    .l-#{$i} {
-        left: #{$i * 5}px;
-    }
-
-    .b-#{$i} {
-    bottom: #{$i * 5}px;
-    }
-
-    .r-#{$i} {
-        right: #{$i * 5}px;
-    }
+   
 
 
 }
@@ -112,21 +104,31 @@ $colorMap:(
         display: $i;
     }
 }
+
 @each $i in $border {
     .bn-#{$i} {
         border: $i;
     }
 }
+
 @each $i in $juscon {
     .jc-#{$i} {
         justify-content: $i;
     }
 }
+
 @each $i in $aliitem {
     .ai-#{$i} {
         align-items: $i;
     }
 }
+
+@each $i in $tali {
+    .ta-#{$i} {
+        text-align: $i;
+    }
+}
+
 @each $i in $position {
     .ps-#{$i} {
         position: $i;
@@ -143,3 +145,20 @@ $colorMap:(
         background-color: $color;
     }
 }
+@for $i from 1 through 200 {
+    .t-#{$i} {
+        top: #{$i * 25}px;
+    }
+
+    .l-#{$i} {
+        left: #{$i * 5}px;
+    }
+
+    .b-#{$i} {
+        bottom: #{$i * 5}px;
+    }
+
+    .r-#{$i} {
+        right: #{$i * 5}px;
+    }
+    }
