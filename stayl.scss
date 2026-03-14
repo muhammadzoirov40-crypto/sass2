@@ -5,6 +5,7 @@
 $colors: red, blue, green, black, white, yellow, gray, pink;
 $displays: inline, block, none, grid, flex;
 $juscon: center, end, space-around, space-evenly, space-between;
+$jusit: center, end, space-around, space-evenly, space-between;
 $aliitem: center, end;
 $tili: center, end;
 $border: none;
@@ -114,6 +115,11 @@ $colorMap: (
 @each $i in $juscon {
     .jc-#{$i} {
         justify-content: $i;
+    }
+}
+@each $i in $jusit {
+    .ji-#{$i} {
+        justify-items: $i;
     }
 }
 
