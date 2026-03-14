@@ -9,6 +9,7 @@ $jusit: center, end, space-around, space-evenly, space-between;
 $aliitem: center, end;
 $tili: center, end;
 $border: none;
+$out: none;
 $position: relative, absolute, fixed, static, sticky;
 $colorMap: (
     mywhite:#ffffff,
@@ -21,7 +22,10 @@ $colorMap: (
 
 
 );
-
+.out{
+    outline:  none;
+    border: none;
+}
 @for $i from 1 through 225 {
     .text-#{$i} {
         font-size: #{$i}px;
@@ -109,6 +113,11 @@ $colorMap: (
 @each $i in $border {
     .bn-#{$i} {
         border: $i;
+    }
+}
+@each $i in $out {
+    .out-#{$i} {
+        outline: none;
     }
 }
 
